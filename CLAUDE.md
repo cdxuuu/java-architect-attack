@@ -38,6 +38,8 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 **练习要求**：每道题作答后需指出与架构师水平的差距及补足方向
 
+**用户业务背景**：蛋壳钱包（TCC分布式事务）、平安健康险保险商城、IM在线客服、医疗在线问诊、国美e卡资金路由、啄木鸟云健康智慧公卫体检、内部管理系统（SETNX裸实现）、ToC核心业务（Redisson）、完整秒杀系统经验
+
 
 ## 内容特点
 
